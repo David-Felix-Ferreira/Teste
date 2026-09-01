@@ -10,3 +10,8 @@ p{
     font-size: 18px; /*tamanho da fonte*/
     line-height: 20px; /*espaçamento entre linhas*/
 }
+
+.noticias{
+    background-color: burlywood;
+    padding: 20px;
+}
