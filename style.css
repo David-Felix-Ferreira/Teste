@@ -38,3 +38,9 @@ a{
     margin-right: 20px;;
      line-height: 30px;
 }
+
+a:hover{
+    background-color: crimson;
+    color: white;
+    padding: 10px;
+}
